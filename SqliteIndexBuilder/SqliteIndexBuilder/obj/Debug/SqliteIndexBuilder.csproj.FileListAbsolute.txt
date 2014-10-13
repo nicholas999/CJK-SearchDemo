@@ -1,0 +1,14 @@
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\bin\Debug\SqliteIndexBuilder.exe.config
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\obj\Debug\SqliteIndexBuilder.csprojResolveAssemblyReference.cache
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\bin\Debug\SqliteIndexBuilder.exe
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\bin\Debug\SqliteIndexBuilder.pdb
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\bin\Debug\EntityFramework.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\bin\Debug\System.Data.SQLite.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\bin\Debug\EntityFramework.xml
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\bin\Debug\System.Data.SQLite.xml
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\obj\Debug\SqliteIndexBuilder.exe
+c:\users\wuxnx\documents\visual studio 2012\Projects\SqliteIndexBuilder\SqliteIndexBuilder\obj\Debug\SqliteIndexBuilder.pdb

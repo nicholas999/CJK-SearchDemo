@@ -1,0 +1,81 @@
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\CJKSearch.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\CJKSearch.pdb
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\Antlr3.Runtime.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\DotNetOpenAuth.AspNet.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\DotNetOpenAuth.Core.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\DotNetOpenAuth.OAuth.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\DotNetOpenAuth.OpenId.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\EntityFramework.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\Microsoft.Web.Infrastructure.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\System.Web.Optimization.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\System.Web.Providers.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\WebGrease.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\EntityFramework.xml
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\DotNetOpenAuth.Core.xml
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\DotNetOpenAuth.OAuth.xml
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\DotNetOpenAuth.OpenId.xml
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\DotNetOpenAuth.AspNet.xml
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\obj\Debug\CJKSearch.csprojResolveAssemblyReference.cache
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\obj\Debug\CJKSearch.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\obj\Debug\CJKSearch.pdb
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\test.db
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\EntityFramework.SqlServer.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\System.Data.SQLite.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\System.Data.SQLite.EF6.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\System.Data.SQLite.Linq.dll
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\EntityFramework.SqlServer.xml
+c:\users\wuxnx\documents\visual studio 2012\Projects\CJKSearch\CJKSearch\bin\System.Data.SQLite.xml
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\CJKSearch.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\CJKSearch.pdb
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\Antlr3.Runtime.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\AspNet.ScriptManager.jQuery.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\DotNetOpenAuth.AspNet.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\DotNetOpenAuth.Core.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\DotNetOpenAuth.OAuth.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\DotNetOpenAuth.OpenId.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\EntityFramework.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\EntityFramework.SqlServer.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\Microsoft.ScriptManager.WebForms.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\Microsoft.Web.Infrastructure.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\System.Data.SQLite.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\System.Data.SQLite.EF6.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\System.Data.SQLite.Linq.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\System.Web.Optimization.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\System.Web.Providers.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\WebGrease.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\EntityFramework.xml
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\EntityFramework.SqlServer.xml
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\System.Data.SQLite.xml
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\DotNetOpenAuth.Core.xml
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\DotNetOpenAuth.OAuth.xml
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\DotNetOpenAuth.OpenId.xml
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\DotNetOpenAuth.AspNet.xml
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\obj\Debug\CJKSearch.csprojResolveAssemblyReference.cache
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\obj\Debug\CJKSearch.dll
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\obj\Debug\CJKSearch.pdb
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\test_jp.db
+C:\workspace\LexisRed\CJK-SearchDemo\CJKSearch\bin\index.db
